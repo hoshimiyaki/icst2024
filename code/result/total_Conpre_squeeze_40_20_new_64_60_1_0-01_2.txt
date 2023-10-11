@@ -1,0 +1,50 @@
+====================
+Chart
+Top1	3
+Top3	6
+Top5	8
+MFR	21.44
+MAR	30.09
+====================
+Closure
+Top1	15
+Top3	30
+Top5	36
+MFR	244.85
+MAR	369.52
+====================
+Math
+Top1	24
+Top3	43
+Top5	50
+MFR	25.41
+MAR	39.08
+====================
+Mockito
+Top1	4
+Top3	9
+Top5	11
+MFR	75.98
+MAR	94.07
+====================
+Lang
+Top1	13
+Top3	28
+Top5	31
+MFR	11.78
+MAR	21.01
+====================
+Time
+Top1	4
+Top3	8
+Top5	13
+MFR	70.16
+MAR	94.7
+
+Statistics for all projects.
+====================
+Top1	63
+Top3	124
+Top5	149
+MFR	107.03
+MAR	157.25
